@@ -3,8 +3,6 @@ package JavaAdvanced.MultidimensionalArrays.Lab;
 import java.util.Arrays;
 import java.util.Scanner;
 
-import javax.naming.spi.DirectoryManager;
-
 public class CompareMatrices {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

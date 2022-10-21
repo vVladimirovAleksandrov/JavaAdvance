@@ -16,17 +16,35 @@ public class Main {
 
             switch(commandName){
                 case "Create":
+                if(commandParts.length > 1) {
                     String[] elementArray = Arrays.copyOfRange(commandParts, 1, commandParts.length);
                     listyIterator = new ListyIterator(elementArray);
+                } else {
+                    listyIterator = new ListyIterator();
+                }
                     break;
 
                 case "Move":
+                    System.out.println(listyIterator.move());
                     break;
 
                 case "HasNext":
+                    System.out.println(listyIterator.hasNext());
                     break;
-                
+
+                case "Print":
+                    try {
+                        listyIterator.print();
+                    } catch (IllegalStateException e) {
+                        System.out.println(e.getMessage());
+                    }
+                    break;
+
+                case "PrintAll":
+                    listyIterator.printAll();
+                    break;
             }
+            input = scanner.nextLine();
         }
     }
 }
