@@ -8,13 +8,22 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         int[] coordinates = Arrays.stream(scanner.nextLine().split(" ")).mapToInt(Integer::parseInt).toArray();
-        Rectangle rectangle = new Rectangle(new Point(coordinates[0], coordinates[1]), new Point(coordinates[2], coordinates[3]));
+        int bottomLeftX = coordinates[0];
+        int bottomLeftY = coordinates[1];
+        int topRightX = coordinates[2];
+        int topRightY = coordinates[3];
 
-        int n = Integer.parseInt(scanner.nextLine());
-        while(n-- > 0) {
-            int[] arr = Arrays.stream(scanner.nextLine().split(" ")).mapToInt(Integer::parseInt).toArray();
-            Point point = new Point(arr[1], arr[1]);
-            System.out.println(rectangle.contains(point));
+        Point bottomLeft = new Point(bottomLeftX, bottomLeftY);
+        Point topRight = new Point(topRightX, topRightY);
+        Rectangle rectangle = new Rectangle(bottomLeft, topRight);
+
+        int countPoints = Integer.parseInt(scanner.nextLine());
+        for (int pointCount = 1; pointCount <= countPoints; pointCount++) {
+            int [] checkPointCoordinates = Arrays.stream(scanner.nextLine().split(" ")).mapToInt(Integer::parseInt).toArray();
+            int x = checkPointCoordinates[0];
+            int y = checkPointCoordinates[1];
+            Point searchedPoint = new Point(x, y);
+            System.out.println(rectangle.contains(searchedPoint));
         }
     }
 }
