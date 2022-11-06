@@ -44,7 +44,7 @@ contemptuous tone of public opinion under which so sensitive a nature
 plays. It was a pain to him to feel that he belonged to a caste which
 assurance to his friend that he will not obtrude on others the fact of
     "I may not evermore acknowledge thee,
-     Unless thou take that honour from thy name:
+     Unless thou take that honour from thy productName:
 
 
      And so should you, to love things nothing worth."
@@ -53,7 +53,7 @@ profession and his nature as a poet and artist:--
      Most true it is, that I have look'd on truth
      And worse essays prov'd thee my best of love."
 not "better for his life provide Than public means which public manners
-    "Thence comes it that my name receives a brand;
+    "Thence comes it that my productName receives a brand;
 
 of the attitude adopted towards them by a great part of the middle
 art-loving traditions of the aristocracy, and the burning enthusiasm

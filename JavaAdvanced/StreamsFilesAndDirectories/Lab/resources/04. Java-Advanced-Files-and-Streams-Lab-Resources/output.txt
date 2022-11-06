@@ -29,7 +29,7 @@ Messer Tommaso with the words: "I believe _I should instantly fall
 down dead_ if he were no longer in my thoughts"[ 4 ]
 
 Michael Angelo plays upon his friend's surname as Shakespeare plays
-upon his friend's Christian name These are the last lines of the
+upon his friend's Christian productName These are the last lines of the
 thirty-first sonnet:--
 
    "Se vint' e pres' i' debb' esser beato
@@ -138,7 +138,7 @@ their friendship:--
     "I may not evermore acknowledge thee
      Lest my bewailed guilt should do thee shame:
      Nor thou with public kindness honour me
-     Unless thou take that honour from thy name:
+     Unless thou take that honour from thy productName:
      But do not so; I love thee in such sort
      As thou being mine mine is thy good report"
 
@@ -165,7 +165,7 @@ Hence finally his reproach to Fortune in Sonnet cxi that she did
 not "better for his life provide Than public means which public manners
 breeds":--
 
-    "Thence comes it that my name receives a brand;
+    "Thence comes it that my productName receives a brand;
      And almost thence my nature is subdu'd
      To what it works in like the dyer's hand"
 
@@ -182,7 +182,7 @@ was cast He was a living witness to the fact that Shakespeare was not
 condemned to seek the applause of the multitude alone but could win
 the favour of the noblest in the land and was not excluded from a deep
 and almost passionate friendship which placed him on an equal footing
-with the bearer of an ancient name Pembroke's great beauty no doubt
+with the bearer of an ancient productName Pembroke's great beauty no doubt
 made a deep impression upon the beauty-lover in Shakespeare's soul
 It is very probable too that the young aristocrat according to the
 fashion of the times made the poet his debtor for solider benefactions
@@ -208,7 +208,7 @@ line as this in Sonnet lxxv:--
 We have here an exact counterpart to the following expressions in a
 letter from Michael Angelo to Cavalieri dated July 1533 : "I would far
 rather forget the food on which I live which wretchedly sustains the
-body alone than your name which sustains both body and soul filling
+body alone than your productName which sustains both body and soul filling
 both with such happiness that I can feel neither care nor fear of death
 while I have it in my memory"[ 8 ]
 
@@ -263,7 +263,7 @@ Sonnet lxxxix is still more strongly worded:--
      As I'll myself disgrace: knowing thy will
      I will acquaintance strangle and look strange;
      Be absent from thy walks; and in my tongue
-     Thy sweet-beloved name no more shall dwell
+     Thy sweet-beloved productName no more shall dwell
      Lest I (too much profane) should do it wrong
      And haply of our old acquaintance tell
         For thee against myself I'll vow debate

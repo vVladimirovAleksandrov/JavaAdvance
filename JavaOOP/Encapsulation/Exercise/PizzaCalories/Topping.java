@@ -1,0 +1,43 @@
+package JavaOOP.Encapsulation.Exercise.PizzaCalories;
+
+public class Topping {
+    private String toppingType;
+    private double weight;
+
+    public Topping(String toppingType, double weight) {
+        this.setToppingType(toppingType);
+        this.setWeight(weight);
+    }
+
+    private void setToppingType(String toppingType) {
+        switch (toppingType) {
+            case "Meat", "Veggies", "Cheese", "Sauce" -> this.toppingType = toppingType;
+            default -> {
+                String errorMessage = String.format("Cannot place %s on top of your pizza.", this.toppingType);
+                throw new IllegalArgumentException(errorMessage);
+            }
+        }
+    }
+
+    private void setWeight(double weight) {
+        if(weight < 1 || weight > 50) {
+            String errorMessage = String.format("%s weight should be in the range [1..50].", this.toppingType);
+            throw new IllegalArgumentException(errorMessage);
+        }
+        this.weight = weight;
+    }
+
+    public double calculateCalories() {
+        return 2 * weight * getModifier();
+    }
+
+    private double getModifier() {
+        return switch (this.toppingType) {
+            case "Meat" -> 1.2;
+            case "Veggies" -> 0.8;
+            case "Cheese" -> 1.1;
+            case "Sauce" -> 0.9;
+            default -> 0;
+        };
+    }
+}
