@@ -1,4 +1,4 @@
-package JavaAdvanced.Workshop.CustomStack;
+package JavaAdvance.JavaAdvanced.Workshop.CustomStack;
 
 import java.util.Scanner;
 

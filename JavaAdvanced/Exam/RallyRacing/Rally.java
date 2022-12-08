@@ -1,4 +1,4 @@
-package RallyRacing;
+package JavaAdvance.JavaAdvanced.Exam.RallyRacing;
 
 import java.rmi.MarshalException;
 import java.util.Scanner;

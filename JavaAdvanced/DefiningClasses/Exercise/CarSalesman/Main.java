@@ -1,4 +1,4 @@
-package JavaAdvanced.DefiningClasses.Exercise.CarSalesman;
+package JavaAdvance.JavaAdvanced.DefiningClasses.Exercise.CarSalesman;
 
 import java.util.ArrayList;
 import java.util.List;

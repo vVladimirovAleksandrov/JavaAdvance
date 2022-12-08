@@ -1,4 +1,4 @@
-package shelter;
+package JavaAdvance.JavaAdvanced.Exam.shelter;
 
 import java.util.Scanner;
 

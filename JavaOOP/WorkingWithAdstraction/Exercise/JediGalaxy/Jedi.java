@@ -1,4 +1,4 @@
-package JavaOOP.WorkingWithAdstraction.Exercise.JediGalaxy;
+package JavaAdvance.JavaOOP.WorkingWithAdstraction.Exercise.JediGalaxy;
 
 public class Jedi {
     private int row;

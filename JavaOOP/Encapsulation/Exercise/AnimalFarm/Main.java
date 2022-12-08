@@ -1,4 +1,4 @@
-package JavaOOP.Encapsulation.Exercise.AnimalFarm;
+package JavaAdvance.JavaOOP.Encapsulation.Exercise.AnimalFarm;
 
 import java.util.Scanner;
 

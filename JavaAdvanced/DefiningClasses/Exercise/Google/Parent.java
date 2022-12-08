@@ -1,4 +1,4 @@
-package JavaAdvanced.DefiningClasses.Exercise.Google;
+package JavaAdvance.JavaAdvanced.DefiningClasses.Exercise.Google;
 
 public class Parent {
     private final String name;

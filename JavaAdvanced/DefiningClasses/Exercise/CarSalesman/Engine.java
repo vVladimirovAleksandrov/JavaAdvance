@@ -1,4 +1,4 @@
-package JavaAdvanced.DefiningClasses.Exercise.CarSalesman;
+package JavaAdvance.JavaAdvanced.DefiningClasses.Exercise.CarSalesman;
 
 @SuppressWarnings("FieldMayBeFinal")
 public class Engine {

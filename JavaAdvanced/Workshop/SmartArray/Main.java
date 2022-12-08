@@ -1,4 +1,4 @@
-package JavaAdvanced.Workshop.SmartArray;
+package JavaAdvance.JavaAdvanced.Workshop.SmartArray;
 
 import java.util.Scanner;
 

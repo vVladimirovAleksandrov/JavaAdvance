@@ -1,4 +1,4 @@
-package JavaAdvanced.FunctionalProgramming.Exercise;
+package JavaAdvance.JavaAdvanced.FunctionalProgramming.Exercise;
 
 import java.util.Arrays;
 import java.util.Comparator;

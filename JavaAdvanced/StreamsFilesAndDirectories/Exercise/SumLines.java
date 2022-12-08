@@ -1,4 +1,4 @@
-package JavaAdvanced.StreamsFilesAndDirectories.Exercise;
+package JavaAdvance.JavaAdvanced.StreamsFilesAndDirectories.Exercise;
 
 import java.io.BufferedReader;
 import java.io.IOException;

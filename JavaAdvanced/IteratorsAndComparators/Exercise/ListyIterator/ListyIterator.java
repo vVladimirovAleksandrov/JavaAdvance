@@ -1,4 +1,4 @@
-package JavaAdvanced.IteratorsAndComparators.Exercise.ListyIterator;
+package JavaAdvance.JavaAdvanced.IteratorsAndComparators.Exercise.ListyIterator;
 
 import java.util.Iterator;
 import java.util.List;

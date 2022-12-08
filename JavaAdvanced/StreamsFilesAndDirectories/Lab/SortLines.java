@@ -1,4 +1,4 @@
-package JavaAdvanced.StreamsFilesAndDirectories.Lab;
+package JavaAdvance.JavaAdvanced.StreamsFilesAndDirectories.Lab;
 
 import java.io.File;
 import java.io.IOException;

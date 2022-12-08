@@ -1,4 +1,4 @@
-package JavaOOP.Inheritance.Lab.SingleInheritance;
+package JavaAdvance.JavaOOP.Inheritance.Lab.SingleInheritance;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package JavaOOP.Inheritance.Lab.RandomArrayList;
+package JavaAdvance.JavaOOP.Inheritance.Lab.RandomArrayList;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package JavaOOP.WorkingWithAdstraction.Lab.StudentSystem;
+package JavaAdvance.JavaOOP.WorkingWithAdstraction.Lab.StudentSystem;
 
 public class Student {
     private String name;

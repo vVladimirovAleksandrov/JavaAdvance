@@ -1,4 +1,4 @@
-package JavaOOP.Inheritance.Exercise.Person;
+package JavaAdvance.JavaOOP.Inheritance.Exercise.Person;
 
 import java.util.Scanner;
 

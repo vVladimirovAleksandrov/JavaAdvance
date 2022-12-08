@@ -1,4 +1,4 @@
-package JavaOOP.Encapsulation.Exercise.ShoppingSpree;
+package JavaAdvance.JavaOOP.Encapsulation.Exercise.ShoppingSpree;
 
 public class Product {
     private String productName;

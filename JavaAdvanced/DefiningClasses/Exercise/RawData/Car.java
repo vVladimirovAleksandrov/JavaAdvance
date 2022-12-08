@@ -1,4 +1,4 @@
-package JavaAdvanced.DefiningClasses.Exercise.RawData;
+package JavaAdvance.JavaAdvanced.DefiningClasses.Exercise.RawData;
 
 public class Car {
     private final int TIRE_COUNT = 4;

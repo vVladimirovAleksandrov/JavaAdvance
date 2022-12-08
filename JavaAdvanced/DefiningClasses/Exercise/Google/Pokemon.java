@@ -1,4 +1,4 @@
-package JavaAdvanced.DefiningClasses.Exercise.Google;
+package JavaAdvance.JavaAdvanced.DefiningClasses.Exercise.Google;
 
 public class Pokemon {
     private final String name;

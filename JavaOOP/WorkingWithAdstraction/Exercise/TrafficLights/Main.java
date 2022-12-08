@@ -1,4 +1,4 @@
-package JavaOOP.WorkingWithAdstraction.Exercise.TrafficLights;
+package JavaAdvance.JavaOOP.WorkingWithAdstraction.Exercise.TrafficLights;
 
 import java.util.ArrayList;
 import java.util.List;

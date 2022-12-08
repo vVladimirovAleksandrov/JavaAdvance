@@ -1,4 +1,4 @@
-package JavaOOP.WorkingWithAdstraction.Lab.RhombusOfStars;
+package JavaAdvance.JavaOOP.WorkingWithAdstraction.Lab.RhombusOfStars;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package JavaOOP.WorkingWithAdstraction.Lab.HotelReservation;
+package JavaAdvance.JavaOOP.WorkingWithAdstraction.Lab.HotelReservation;
 
 public enum Season {
     SUMMER(4),

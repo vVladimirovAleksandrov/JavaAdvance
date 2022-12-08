@@ -1,4 +1,4 @@
-package JavaOOP.Inheritance.Lab.StackOfStrings;
+package JavaAdvance.JavaOOP.Inheritance.Lab.StackOfStrings;
 
 import java.util.Scanner;
 
@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        StackOfString sos = new StackOfString();
+        StackOfStrings sos = new StackOfStrings();
         sos.push("one");
         sos.push("two");
         sos.push("three");

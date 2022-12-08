@@ -1,4 +1,4 @@
-package JavaOOP.Inheritance.Lab.SingleInheritance;
+package JavaAdvance.JavaOOP.Inheritance.Lab.SingleInheritance;
 
 public class Puppy extends Dog{
     public void weep() {

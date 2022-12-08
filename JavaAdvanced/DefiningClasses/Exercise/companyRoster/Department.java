@@ -1,4 +1,4 @@
-package JavaAdvanced.DefiningClasses.Exercise.companyRoster;
+package JavaAdvance.JavaAdvanced.DefiningClasses.Exercise.companyRoster;
 
 import java.util.ArrayList;
 import java.util.List;

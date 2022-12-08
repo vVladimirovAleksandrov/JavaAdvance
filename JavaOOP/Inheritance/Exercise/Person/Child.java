@@ -1,4 +1,4 @@
-package JavaOOP.Inheritance.Exercise.Person;
+package JavaAdvance.JavaOOP.Inheritance.Exercise.Person;
 
 public class Child extends Person{
     public Child(String name, int age) {

@@ -1,4 +1,4 @@
-package JavaAdvanced.DefiningClasses.Exercise.OpinionPoll;
+package JavaAdvance.JavaAdvanced.DefiningClasses.Exercise.OpinionPoll;
 
 public class Persson {
     private String name;

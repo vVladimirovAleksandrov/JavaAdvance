@@ -1,4 +1,4 @@
-package JavaAdvanced.FunctionalProgramming.Lab;
+package JavaAdvance.JavaAdvanced.FunctionalProgramming.Lab;
 
 import java.util.ArrayList;
 import java.util.Arrays;

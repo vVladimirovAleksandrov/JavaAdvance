@@ -1,4 +1,4 @@
-package JavaAdvanced.ExamPrep.OSPlanning;
+package JavaAdvance.JavaAdvanced.ExamPrep.OSPlanning;
 
 import java.util.ArrayDeque;
 import java.util.Arrays;

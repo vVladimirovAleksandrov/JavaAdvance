@@ -1,4 +1,4 @@
-package EnergyDrinks;
+package JavaAdvance.JavaAdvanced.Exam.EnergyDrinks;
 
 import java.util.ArrayDeque;
 import java.util.Arrays;

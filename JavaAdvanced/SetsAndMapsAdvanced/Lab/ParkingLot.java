@@ -1,4 +1,4 @@
-package JavaAdvanced.SetsAndMapsAdvanced.Lab;
+package JavaAdvance.JavaAdvanced.SetsAndMapsAdvanced.Lab;
 
 import java.util.LinkedHashSet;
 import java.util.Scanner;

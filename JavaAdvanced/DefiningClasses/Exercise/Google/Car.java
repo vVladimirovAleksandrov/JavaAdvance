@@ -1,4 +1,4 @@
-package JavaAdvanced.DefiningClasses.Exercise.Google;
+package JavaAdvance.JavaAdvanced.DefiningClasses.Exercise.Google;
 
 public class Car {
     private final String model;

@@ -1,4 +1,4 @@
-package JavaOOP.Encapsulation.Exercise.ClassBox;
+package JavaAdvance.JavaOOP.Encapsulation.Exercise.ClassBox;
 
 public class Box {
     private double lenght;

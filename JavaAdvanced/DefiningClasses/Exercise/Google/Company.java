@@ -1,4 +1,4 @@
-package JavaAdvanced.DefiningClasses.Exercise.Google;
+package JavaAdvance.JavaAdvanced.DefiningClasses.Exercise.Google;
 
 public class Company {
     private final String name;

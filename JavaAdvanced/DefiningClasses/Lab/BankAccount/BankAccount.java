@@ -1,4 +1,4 @@
-package JavaAdvanced.DefiningClasses.Lab.BankAccount;
+package JavaAdvance.JavaAdvanced.DefiningClasses.Lab.BankAccount;
 
 public class BankAccount {
     private final static double DEFAULT_INTEREST_RATE = 0.02;

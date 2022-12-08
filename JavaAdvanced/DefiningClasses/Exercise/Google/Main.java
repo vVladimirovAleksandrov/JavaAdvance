@@ -1,4 +1,4 @@
-package JavaAdvanced.DefiningClasses.Exercise.Google;
+package JavaAdvance.JavaAdvanced.DefiningClasses.Exercise.Google;
 
 import java.util.HashMap;
 import java.util.Map;

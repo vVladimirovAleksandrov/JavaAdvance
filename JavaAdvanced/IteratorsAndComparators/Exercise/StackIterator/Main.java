@@ -1,4 +1,4 @@
-package JavaAdvanced.IteratorsAndComparators.Exercise.StackIterator;
+package JavaAdvance.JavaAdvanced.IteratorsAndComparators.Exercise.StackIterator;
 
 import java.util.Arrays;
 import java.util.NoSuchElementException;

@@ -1,4 +1,4 @@
-package JavaOOP.Encapsulation.Lab.SortByNameAndAge;
+package JavaAdvance.JavaOOP.Encapsulation.Lab.SortByNameAndAge;
 
 import java.util.ArrayList;
 import java.util.Collections;

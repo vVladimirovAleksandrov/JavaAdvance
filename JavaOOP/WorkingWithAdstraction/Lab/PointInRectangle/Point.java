@@ -1,4 +1,4 @@
-package JavaOOP.WorkingWithAdstraction.Lab.PointInRectangle;
+package JavaAdvance.JavaOOP.WorkingWithAdstraction.Lab.PointInRectangle;
 
 public class Point {
     private int x;

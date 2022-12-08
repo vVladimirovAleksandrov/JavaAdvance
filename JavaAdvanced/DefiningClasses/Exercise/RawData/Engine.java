@@ -1,4 +1,4 @@
-package JavaAdvanced.DefiningClasses.Exercise.RawData;
+package JavaAdvance.JavaAdvanced.DefiningClasses.Exercise.RawData;
 
 public class Engine {
     private int speed;

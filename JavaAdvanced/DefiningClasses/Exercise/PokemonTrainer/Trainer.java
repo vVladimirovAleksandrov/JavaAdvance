@@ -1,4 +1,4 @@
-package JavaAdvanced.DefiningClasses.Exercise.PokemonTrainer;
+package JavaAdvance.JavaAdvanced.DefiningClasses.Exercise.PokemonTrainer;
 
 import java.util.ArrayList;
 import java.util.List;

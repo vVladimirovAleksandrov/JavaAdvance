@@ -1,4 +1,4 @@
-package JavaOOP.Encapsulation.Exercise.PizzaCalories;
+package JavaAdvance.JavaOOP.Encapsulation.Exercise.PizzaCalories;
 
 import java.util.Arrays;
 

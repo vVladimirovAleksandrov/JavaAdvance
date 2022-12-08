@@ -1,4 +1,4 @@
-package JavaOOP.WorkingWithAdstraction.Exercise.CardRank;
+package JavaAdvance.JavaOOP.WorkingWithAdstraction.Exercise.CardRank;
 
 public enum CardRank {
     ACE(14),

@@ -1,4 +1,4 @@
-package JavaAdvanced.DefiningClasses.Exercise.companyRoster;
+package JavaAdvance.JavaAdvanced.DefiningClasses.Exercise.companyRoster;
 
 public class Employee {
     //: name, salary, position, department, email, and age.

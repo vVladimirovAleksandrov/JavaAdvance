@@ -1,4 +1,4 @@
-package JavaAdvanced.SetsAndMapsAdvanced.Lab;
+package JavaAdvance.JavaAdvanced.SetsAndMapsAdvanced.Lab;
 
 import java.text.DecimalFormat;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package JavaAdvanced.MultidimensionalArrays.Lab;
+package JavaAdvance.JavaAdvanced.MultidimensionalArrays.Lab;
 
 import java.util.ArrayList;
 import java.util.Arrays;

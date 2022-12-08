@@ -1,4 +1,4 @@
-package JavaOOP.WorkingWithAdstraction.Exercise.GreedyTimes;
+package JavaAdvance.JavaOOP.WorkingWithAdstraction.Exercise.GreedyTimes;
 
 public class Item {
     private ItemType itemType;

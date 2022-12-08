@@ -1,4 +1,4 @@
-package JavaOOP.Inheritance.Lab.SingleInheritance;
+package JavaAdvance.JavaOOP.Inheritance.Lab.SingleInheritance;
 
 public class Animal {
     public void eat() {

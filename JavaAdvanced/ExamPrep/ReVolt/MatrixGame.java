@@ -1,4 +1,4 @@
-package JavaAdvanced.ExamPrep.ReVolt;
+package JavaAdvance.JavaAdvanced.ExamPrep.ReVolt;
 
 import java.util.Scanner;
 

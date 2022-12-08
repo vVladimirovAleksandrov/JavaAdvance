@@ -1,4 +1,4 @@
-package JavaAdvanced.SetsAndMapsAdvanced.Exercise;
+package JavaAdvance.JavaAdvanced.SetsAndMapsAdvanced.Exercise;
 
 import java.util.ArrayList;
 import java.util.Arrays;

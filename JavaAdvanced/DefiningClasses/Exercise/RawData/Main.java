@@ -1,4 +1,4 @@
-package JavaAdvanced.DefiningClasses.Exercise.RawData;
+package JavaAdvance.JavaAdvanced.DefiningClasses.Exercise.RawData;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package JavaOOP.WorkingWithAdstraction.Exercise.JediGalaxy;
+package JavaAdvance.JavaOOP.WorkingWithAdstraction.Exercise.JediGalaxy;
 
 import java.util.Arrays;
 import java.util.Scanner;

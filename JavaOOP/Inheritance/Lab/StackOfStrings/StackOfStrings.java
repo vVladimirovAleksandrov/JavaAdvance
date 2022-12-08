@@ -1,13 +1,13 @@
-package JavaOOP.Inheritance.Lab.StackOfStrings;
+package JavaAdvance.JavaOOP.Inheritance.Lab.StackOfStrings;
 
 import java.util.ArrayList;
 import java.util.EmptyStackException;
 import java.util.List;
 
-public class StackOfString {
+public class StackOfStrings {
     private List<String> container;
 
-    public StackOfString() {
+    public StackOfStrings() {
         this.container = new ArrayList<>();
     }
 
